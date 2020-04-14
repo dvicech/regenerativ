@@ -32,3 +32,5 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 13. Natur – **Kirche**
 
 14. Liebe – **Fundament**
+
+15. Verantwortung - **Der Weg dahin..**
