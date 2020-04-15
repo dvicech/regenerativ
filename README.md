@@ -8,28 +8,46 @@ Dies hier wäre ein Anfang.
 
 1. Bionik 3.0 – **Lernen von der Natur**
 
+   - Effizienz vs. Effektivität
+   - Elegante Lösungen
+   - Von der Bionik 1.0 zur Bionik 3.0
+
 2. Permakultur – **Geisteshaltung**
 
-3. Regenerative Landwirtschaft – **Nahrung**
+   - Eine Permanente Kultur
+   - Die Ethik der Permakultur
+   - Die Prinzipien der Permakultur
+   - Muster
 
-4. Soziokratie 3.0 – **Organisation**
+3) Regenerative Landwirtschaft – **Nahrung**
 
-5. Holistic Management – **Entscheidungen**
+   - Was bedeutet regenerativ?
+   - Arbeiten mit der Natur
+   - Humus, die Basis für gesunde Pflanzen und Lebensmittel
 
-6. Open Source – **Wirtschaft**
+4) Soziokratie 3.0 – **Organisation**
 
-7. Neugierde – **Schule**
+   - Über hierarchische Organisationen
+   - Selbstorganisation und dezentrale Organisationen
+   - Agil, Lean und lernfähig
+   - Konsent
 
-8. Placebo – **Medizin**
+5) Holistic Management – **Entscheidungen**
 
-9. Kunst – **Alltag**
+6) Open Source – **Wirtschaft**
 
-10. Kreativität – **Spass**
+7) Neugierde – **Schule**
 
-11. Freude – **Ziel**
+8) Placebo – **Medizin**
 
-12. Meditation – **Religion**
+9) Kunst – **Alltag**
 
-13. Natur – **Kirche**
+10) Kreativität – **Spass**
 
-14. Liebe – **Fundament**
+11) Freude – **Ziel**
+
+12) Meditation – **Religion**
+
+13) Natur – **Kirche**
+
+14) Liebe – **Fundament**
