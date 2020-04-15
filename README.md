@@ -17,38 +17,36 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
    - Die Prinzipien der Permakultur
    - Muster
 
-3) Regenerative Landwirtschaft – **Nahrung**
+3. Regenerative Landwirtschaft – **Nahrung**
 
    - Was bedeutet regenerativ?
    - Arbeiten mit der Natur
    - Humus, die Basis für gesunde Pflanzen und Lebensmittel
 
-4) Soziokratie 3.0 – **Organisation**
+4. Soziokratie 3.0 – **Organisation**
 
    - Über hierarchische Organisationen
    - Selbstorganisation und dezentrale Organisationen
    - Agil, Lean und lernfähig
    - Konsent
 
-5) Holistic Management – **Entscheidungen**
+5. Holistic Management – **Entscheidungen**
 
-6) Open Source – **Wirtschaft**
+6. Open Source – **Wirtschaft**
 
-7) Neugierde – **Schule**
+7. Neugierde – **Schule**
 
-8) Placebo – **Medizin**
+8. Placebo – **Medizin**
 
-9) Kunst – **Alltag**
+9. Kunst – **Alltag**
 
-10) Kreativität – **Spass**
+10. Kreativität – **Spass**
 
-11) Freude – **Ziel**
+11. Freude – **Ziel**
 
-12) Meditation – **Religion**
+12. Meditation – **Religion**
 
-13) Natur – **Kirche**
-
-14) Liebe – **Fundament**
+13. Natur – **Kirche**
 
 14. Liebe – **Fundament**
 
