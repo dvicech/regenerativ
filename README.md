@@ -6,9 +6,15 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
 1. Bionik 3.0 – **Lernen von der Natur**
 
-   - Effizienz vs. Effektivität
-   - Elegante Lösungen
-   - Von der Bionik 1.0 zur Bionik 3.0
+   - Der aktuelle Zustand des Planeten und der Gesellschaft
+   - Von eleganten Lösungen
+     - Einfachheit & Wirksamkeit
+     - Effektivität vs. Effizienz
+   - Bionik 3.0
+
+   Literatur:
+
+   - Presentation Permakultur - dvice
 
 2. Permakultur – **Geisteshaltung**
 
@@ -17,11 +23,27 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
    - Die Prinzipien der Permakultur
    - Muster
 
+   Literatur
+
+   - _Masanobu Fukuoka: Der Grosse Weg hat kein Tor_
+   - _Bill Mollison: Handbuch der Permakultur-Gestaltung_
+   - _David Holmgren: Permakultur_
+   - _Weiseman, Halsey, Ruddock: Integrated Forest Gardening_
+   - _Alexander, Ishikawa, Silverstein: Eine Muster-Sprache_
+
 3. Regenerative Landwirtschaft – **Nahrung**
 
    - Was bedeutet regenerativ?
+     - Conventional vs. Sustainable vs. Regenerative
+     - Regenerative Ecosysteme
    - Arbeiten mit der Natur
    - Humus, die Basis für gesunde Pflanzen und Lebensmittel
+   - CSA - Glokal
+
+   Literatur:
+
+   - Richard Perkins - Regenerative Agriculture
+   - Scheub, Schwarzer - Die Humusrevolution
 
 4. Soziokratie 3.0 – **Organisation**
 
