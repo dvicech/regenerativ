@@ -47,7 +47,13 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
    - _P.A. Yeomans - Water for every farm_
    - _Shepard - Restoration Agriculture_
 
-4. Soziokratie 3.0 – **Organisation**
+4. Holistic Management – **Entscheidungen**
+
+   Literatur
+
+   - _Savory, Butterfield - Holistic Management_
+
+5. Soziokratie 3.0 – **Organisation**
 
    - Über hierarchische Organisationen
    - Selbstorganisation und dezentrale Organisationen
@@ -57,12 +63,6 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
    Literatur:
 
    - _Priest, Bockelbrink, David - Sociocracy 3.0 - A practical Guide_
-
-5. Holistic Management – **Entscheidungen**
-
-   Literatur
-
-   - _Savory, Butterfield - Holistic Management_
 
 6. Open Source – **Wirtschaft**
 
