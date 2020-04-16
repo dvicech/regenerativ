@@ -14,7 +14,7 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
    Literatur:
 
-   - Presentation Permakultur - dvice
+   - _dvice - Presentation Permaculture_
 
 2. Permakultur – **Geisteshaltung**
 
@@ -25,11 +25,11 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
    Literatur
 
-   - _Masanobu Fukuoka: Der Grosse Weg hat kein Tor_
-   - _Bill Mollison: Handbuch der Permakultur-Gestaltung_
-   - _David Holmgren: Permakultur_
-   - _Weiseman, Halsey, Ruddock: Integrated Forest Gardening_
-   - _Alexander, Ishikawa, Silverstein: Eine Muster-Sprache_
+   - _Masanobu Fukuoka - Der Grosse Weg hat kein Tor_
+   - _Bill Mollison - Handbuch der Permakultur-Gestaltung_
+   - _David Holmgren - Permakultur_
+   - _Weiseman, Halsey, Ruddock - Integrated Forest Gardening_
+   - _Alexander, Ishikawa, Silverstein - Eine Muster-Sprache_
 
 3. Regenerative Landwirtschaft – **Nahrung**
 
@@ -42,8 +42,10 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
    Literatur:
 
-   - Richard Perkins - Regenerative Agriculture
-   - Scheub, Schwarzer - Die Humusrevolution
+   - _Richard Perkins - Regenerative Agriculture_
+   - _Scheub, Schwarzer - Die Humusrevolution_
+   - _P.A. Yeomans - Water for every farm_
+   - _Shepard - Restoration Agriculture_
 
 4. Soziokratie 3.0 – **Organisation**
 
@@ -52,13 +54,26 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
    - Agil, Lean und lernfähig
    - Konsent
 
+   Literatur:
+
+   - _Priest, Bockelbrink, David - Sociocracy 3.0 - A practical Guide_
+
 5. Holistic Management – **Entscheidungen**
+
+   Literatur
+
+   - _Savory, Butterfield - Holistic Management_
 
 6. Open Source – **Wirtschaft**
 
 7. Neugierde – **Schule**
 
 8. Placebo – **Medizin**
+
+   Literatur:
+
+   - _Backe, Reinwarth - Sei dein eigener Arzt_
+   - _Hamer_
 
 9. Kunst – **Alltag**
 
