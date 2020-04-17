@@ -38,6 +38,7 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
      - Regenerative Ecosysteme
    - Arbeiten mit der Natur
    - Humus, die Basis für gesunde Pflanzen und Lebensmittel
+   - Carbon Farming
    - CSA - Glokal
 
    Literatur:
@@ -88,3 +89,13 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 14. Liebe – **Fundament**
 
 15. Verantwortung - **Der Weg dahin..**
+
+<br><hr><br>
+
+Licensed under a <b>Creative Commons Attribution-ShareAlike 4.0 International License</b>, which is a <b>Free Culture License</b>.
+
+You need to <b>attribute the original creator of the materials</b>, and <b>all derivatives need to be shared under the same license</b>.
+
+To view the the full text of this license, visit https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+There’s more on the topic of free culture on the [Creative Commons website](https://creativecommons.org/freeworks)
