@@ -67,6 +67,9 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
 6. Open Source – **Wirtschaft**
 
+   - Wissen als Allgemeingut
+   - Steuern - Crowdfunding
+
 7. Neugierde – **Schule**
 
 8. Placebo – **Medizin**
