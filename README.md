@@ -90,6 +90,8 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
 15. Verantwortung - **Der Weg dahin..**
 
+Der einzige Weg zu nachhaltigem Wandel besteht darin, dass jeder Mensch sich entsprechend wandelt. Erwarten wir von Anderen, sei es von der Politik, von der Wirtschaft oder wer auch immer die Welt für uns positiv gestalten sollte, dies zu tun, dann werden wir auch in der neu gestalteten Welt von anderen abhängig sein.
+
 <br><hr><br>
 
 Licensed under a <b>Creative Commons Attribution-ShareAlike 4.0 International License</b>, which is a <b>Free Culture License</b>.
