@@ -74,6 +74,10 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
 8. Placebo – **Medizin**
 
+   - Placebo
+   - Epigenetik
+   - Basisches Umfeld
+
    Literatur:
 
    - _Backe, Reinwarth - Sei dein eigener Arzt_
