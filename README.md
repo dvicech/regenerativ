@@ -99,10 +99,15 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
 Der einzige Weg zu nachhaltigem Wandel besteht darin, dass jeder Mensch sich entsprechend wandelt. Erwarten wir von Anderen, sei es von der Politik, von der Wirtschaft oder wer auch immer die Welt für uns positiv gestalten sollte, dies zu tun, dann werden wir auch in der neu gestalteten Welt von anderen abhängig sein.
 
-- Meine Reise
+- Eine Reise
+- Waldbaden
 - Urvertrauen
-- Körperliche Fitness und gesunde Nahrung
-- Folge der Freude
+- Körperliche Fitness, gesunde Nahrung und guter Schlaf
+  - Intermittent Fasting
+  - HIIT BodyWeight
+  - Basische Ernährung
+  - Den Wecker entsorgen
+- Folge der Freude und den Interessen
 - Begegne den Ängsten
 - Fokus auf Ziele
 - Kontinuierliches Lernen und Optimieren
