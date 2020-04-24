@@ -60,10 +60,12 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
    - Selbstorganisation und dezentrale Organisationen
    - Agil, Lean und lernfähig
    - Konsent
+   - Politik und Wirtschaft
 
    Literatur:
 
    - _Priest, Bockelbrink, David - Sociocracy 3.0 - A practical Guide_
+   - _Frédéric Laloux - Reinventing Organisations_
 
 6. Open Source – **Wirtschaft**
 
