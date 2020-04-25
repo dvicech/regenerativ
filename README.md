@@ -6,9 +6,9 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
 1. Bionik 3.0 – **Lernen von der Natur**
 
-   - Der aktuelle Zustand des Planeten und der Gesellschaft
+   - Der aktuelle Zustand des Planeten und unserer Gesellschaft
    - Von eleganten Lösungen
-     - Einfachheit & Wirksamkeit
+     - Einfachheit
      - Effektivität vs. Effizienz
    - Bionik 3.0
 
@@ -33,44 +33,56 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
 3. Regenerative Landwirtschaft – **Nahrung**
 
-   - Was bedeutet regenerativ?
-     - Conventional vs. Sustainable vs. Regenerative
-     - Regenerative Ecosysteme
-   - Arbeiten mit der Natur
-   - Humus, die Basis für gesunde Pflanzen und Lebensmittel
-   - Carbon Farming
-   - CSA - Glokal
+Wir arbeiten mit der Natur anstatt gegen sie und bewirtschaften das Land auf eine Art und Weise in welcher es regeneriert und somit mit jedem Jahr gesünder ist und mehr Ertrag liefert.
 
-   Literatur:
+- Was bedeutet regenerativ?
+  - Conventional vs. Sustainable vs. Regenerative
+  - Regenerative Ecosysteme
+- Arbeiten mit der Natur
+- Humus, die Basis für gesunde Pflanzen und Lebensmittel
+- Carbon Farming
+- CSA - Glokal
 
-   - _Richard Perkins - Regenerative Agriculture_
-   - _Scheub, Schwarzer - Die Humusrevolution_
-   - _P.A. Yeomans - Water for every farm_
-   - _Shepard - Restoration Agriculture_
+Literatur:
+
+- _Richard Perkins - Regenerative Agriculture_
+- _Scheub, Schwarzer - Die Humusrevolution_
+- _P.A. Yeomans - Water for every farm_
+- _Shepard - Restoration Agriculture_
 
 4. Holistic Management – **Entscheidungen**
 
-   Literatur
+Alle unsere Entscheidungen beziehen stets das Gesamte mitein.
 
-   - _Savory, Butterfield - Holistic Management_
+Literatur
+
+- _Savory, Butterfield - Holistic Management_
 
 5. Soziokratie 3.0 – **Organisation**
 
-   - Über hierarchische Organisationen
-   - Selbstorganisation und dezentrale Organisationen
-   - Agil, Lean und lernfähig
-   - Konsent
-   - Politik und Wirtschaft
+Billionen von Mikroorganisationen sind verbunden miteinander auf dezentralisierte und resiliente Art und Weise. Ähnlich der Mykorrhiza.
 
-   Literatur:
+- Über hierarchische Organisationen
+- Selbstorganisation und dezentrale Organisationen
+- Agil, Lean und lernfähig
+- Konsent, systemisches Konsensieren
+- Politik und Wirtschaft
 
-   - _Priest, Bockelbrink, David - Sociocracy 3.0 - A practical Guide_
-   - _Frédéric Laloux - Reinventing Organisations_
+Literatur:
+
+- _Priest, Bockelbrink, David - Sociocracy 3.0 - A practical Guide_
+- _Frédéric Laloux - Reinventing Organizations_
 
 6. Open Source – **Wirtschaft**
 
-   - Wissen als Allgemeingut
-   - Steuern - Crowdfunding
+Freies Wissen ist die optimalste Ausgangslage um neues Wissen zu generieren.
+
+- Wissen als Allgemeingut
+- Steuern - Crowdfunding
+- Das Internet und die zugrundeliegenden Applikationen
+- Linux
+- Open Source Ecology
+- Arduino
 
 7. Neugierde – **Schule**
 
