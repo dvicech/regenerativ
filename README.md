@@ -33,7 +33,7 @@ In der Natur, gibt jedes Element etwas ins Ganze hinein und kann so viel herausn
 
 3. Regenerative Landwirtschaft – **Nahrung**
 
-Wir arbeiten mit der Natur anstatt gegen sie und bewirtschaften das Land auf eine Art und Weise in welcher es regeneriert und somit mit jedem Jahr gesünder ist und mehr Ertrag liefert.
+Wir arbeiten mit der Natur anstatt gegen sie und bewirtschaften das Land auf eine Art und Weise in welcher es regeneriert und somit mit jedem Jahr gesünder wird, weniger Arbeit macht und darüber hinaus mehr und wertvolleren Ertrag liefert.
 
 - Was bedeutet regenerativ?
   - Conventional vs. Sustainable vs. Regenerative
@@ -86,18 +86,26 @@ Freies Wissen ist die optimalste Ausgangslage um neues Wissen zu generieren.
 
 7. Neugierde – **Schule**
 
+Lernen ist etwas, das nebenbei passiert während wir uns mit etwas beschäftigen, das uns interessiert. Lernen müssen, passiert dann, wenn wir von aussen gezwungen werden, etwas zu lernen, wo wir einerseits nicht wissen, wofür wir das lernen resp. uns einfach das Interesse fehlt. Die Schule sollte dazu da sein, den Kindern zu ermöglichen Dinge und somit Interessen zu entdecken und darüber hinaus dafür zu sorgen, dass die Kinder sich entsprechendes vertiefendes Wissen aneignen können.
+
 8. Placebo – **Medizin**
 
-   - Placebo
-   - Epigenetik
-   - Basisches Umfeld
+Wenn wir einem Probanden Kochsalzlösung injezieren und derjenige die gleiche Wirkung verspürt, wie ein anderer Proband, welchem Morphium gespritzt wurde, sollten wir da nicht tiefer gehen und uns fragen, wie das möglich ist und viel wichtiger, ob wir dieses Ereignis bewusst herbeiführen können?
 
-   Literatur:
+- Placebo
+- Epigenetik
+- Basisches Umfeld
 
-   - _Backe, Reinwarth - Sei dein eigener Arzt_
-   - _Hamer_
+Höchste Zeit, uns vom aktuellen Credo "Ein geheilter Patient ist ein verlorener Kunde" zu verabschieden. Man sagt, dass im alten China Ärzte dafür bezahlt wurden, dass die Menschen gesund waren. Wurde jemand krank, dann wurde auch der Arzt nicht mehr bezahlt, bis die Person wieder genesen war. Ein interessantes Anreizsystem.
+
+Literatur:
+
+- _Backe, Reinwarth - Sei dein eigener Arzt_
+- _Hamer_
 
 9. Kunst – **Alltag**
+
+Was spricht dagegen, Kunst nicht nur als Freizeitkonsum zu betrachten, sondern sie aktiv und passiv in unseren Alltag zu integrieren?
 
 10. Kreativität – **Spass**
 
@@ -111,19 +119,19 @@ Freies Wissen ist die optimalste Ausgangslage um neues Wissen zu generieren.
 
 15. Verantwortung - **Der Weg dahin..**
 
-Der einzige Weg zu nachhaltigem Wandel besteht darin, dass jeder Mensch sich entsprechend wandelt. Erwarten wir von Anderen, sei es von der Politik, von der Wirtschaft oder wer auch immer die Welt für uns positiv gestalten sollte, dies zu tun, dann werden wir auch in der neu gestalteten Welt von anderen abhängig sein.
+Der einzige Weg zu nachhaltigem Wandel besteht darin, dass jeder einzelne Mensch Verantwortung übernimmt und sich entsprechend wandelt. Erwarten wir von Anderen, sei es von der Politik, von der Wirtschaft oder wer auch immer die Welt für uns positiv gestalten sollte, dies zu tun, dann werden wir auch in der entsprechend neu gestalteten Welt von anderen abhängig sein.
 
 - Eine Reise
 - Waldbaden
-- Urvertrauen
 - Körperliche Fitness, gesunde Nahrung und guter Schlaf
   - Intermittent Fasting
   - HIIT BodyWeight
   - Basische Ernährung
   - Den Wecker entsorgen
+- Urvertrauen
 - Folge der Freude und den Interessen
 - Begegne den Ängsten
-- Fokus auf Ziele
+- Vision, Zielsetzung und Fokus
 - Kontinuierliches Lernen und Optimieren
 - Stete Veränderung ist die einzige Konstante
 - Gesunder Menschenverstand
